@@ -18,5 +18,4 @@
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' 
 }
-```
 
